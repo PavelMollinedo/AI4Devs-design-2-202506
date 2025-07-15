@@ -529,7 +529,7 @@ H3	Como candidato, quiero postularme a una vacante usando mi perfil de LinkedIn 
 
 🧠 Consideraciones técnicas
 Recomendado: arquitectura basada en eventos para publicación (vacante_publicada → job → canal).
-El parse de CV puede dejarse con formato mock si aún no se tiene integración real.
+El parser de CV puede dejarse con formato mock si aún no se tiene integración real.
 Uso de OAuth para LinkedIn debe seguir guías oficiales de permisos (mínimos posibles para obtener nombre, headline, experiencia).
 🎯 Resultado Esperado del Sprint
 Reclutadores pueden publicar en canales externos simulados.
